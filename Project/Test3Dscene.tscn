@@ -3,3 +3,4 @@
 [node name="Spatial" type="Spatial"]
 
 [node name="CSGBox" type="CSGBox" parent="."]
+width = 4.707
